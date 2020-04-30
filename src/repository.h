@@ -22,7 +22,7 @@
 #include "submodule.h"
 #include "diff_driver.h"
 
-#define DOT_GIT ".git"
+#define DOT_GIT ".plunify_git"
 #define GIT_DIR DOT_GIT "/"
 #define GIT_DIR_MODE 0755
 #define GIT_BARE_DIR_MODE 0777

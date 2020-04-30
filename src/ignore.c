@@ -8,7 +8,7 @@
 
 #define GIT_IGNORE_INTERNAL		"[internal]exclude"
 
-#define GIT_IGNORE_DEFAULT_RULES ".\n..\n.git\n"
+#define GIT_IGNORE_DEFAULT_RULES ".\n..\n.git\n.plunify_git\n"
 
 /**
  * A negative ignore can only unignore a file which is given explicitly before, thus
